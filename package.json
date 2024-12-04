@@ -1,0 +1,15 @@
+{
+  "name": "wallet-connector",
+  "version": "1.0.0",
+  "description": "Application pour connecter un wallet MetaMask",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+#connect-wallet {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#wallet-address {
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
